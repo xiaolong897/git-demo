@@ -16,4 +16,4 @@ hello xiaolong hello git
 hello xiaolong hello git
 hello xiaolong hello git
 hello xiaolong hello git  master test
-hello xiaolong hello git
+hello xiaolong hello git hot-fix test
